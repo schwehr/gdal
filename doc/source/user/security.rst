@@ -163,7 +163,7 @@ General issues
   STACIT, STACTA, etc.).
 
 - XML based drivers: they might be subject to denial of service by
-  `​billion laugh-like <https://en.wikipedia.org/wiki/Billion_laughs_attack>`__
+  `billion laugh-like<https://en.wikipedia.org/wiki/Billion_laughs_attack>`_
   attacks. Existing GDAL XML based drivers are thought to take defensive measures
   against such patterns (starting with GDAL 3.9.3 for LVBAG and GMLAS drivers)
 
